@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hello there, I'm BestDaemonDirect 👋
 
-<!--
-**BestDaemonDirect/BestDaemonDirect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer | Python Backend Developer
 
-Here are some ideas to get you started:
+I`m a developer interested in backend engineering and software architecture.  
+I enjoy buiding web applications, automating processes and systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech Stack**
+
+
+| Category | Technologies |
+|:---|:---|
+| **Languages** | Python, SQL |
+| **Backend & Web** | Django, Flask, REST API, ORM, Database Migrations |
+| **Telegram Bot Development** | aiogram, Telegram Bot API |
+| **Databases** | SQLite3, PostgreSQL |
+| **API & Integrations** | Requests, cURL, HTTP, JSON |
+| **Tools & IDEs** | Git, GitHub, VS Code, PyCharm |
+
+  
+💻 **What I Build**
+
+- Web applications
+- Landing pages
+- Small online shops and management systems
+- Telegram bots and automation
+- REST API and third party integrations
+- Web scraping and data processing
+
+
+🔭 **Currently Improving**
+
+- Backend architecture
+- Database design
+- API development
+- Application reliability
+
+📫 **Contact**
+- Github: https://github.com/BestDaemonDirect
+
+
+
